@@ -7,4 +7,5 @@ This repository contains links to my ongoing and completed projects in different
 
 | No. | Hands-on Experience | Project                      | Skills            | Status |
 |-----|---------------------|------------------------------|-------------------|--------|
-| 1   | Data Preprocessing  | [Análisis del riesgo de incumplimiento de los prestatarios](https://github.com/alex-o5/) | Python, Pandas, NumPy | &#9745; |
+| 1   | Basic Python        | [Preferencias musicales de usuarios de dos ciudades](https://github.com/alex-o5/) | Python, Pandas | &#9745; |
+| 2   | Data Preprocessing  | [Análisis del riesgo de incumplimiento de los prestatarios](https://github.com/alex-o5/) | Python, Pandas, NumPy | &#9745; |
